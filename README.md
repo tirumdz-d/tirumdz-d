@@ -13,9 +13,9 @@
 
 ##  About Me
 
- Im Furry 17+
- Mainly working with Java ,Kotlin ,...
- Interested in Minecraft servers and Anticheat bypass
+- Im Furry 17+
+- Mainly working with Java ,Kotlin ,...
+- Interested in Minecraft servers and Anticheat bypass
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksandweight&weight=700&duration=3000&pause=998&color=F78A13&center=true&vCenter=true&width=435&lines=Java+Developer%E2%9C%A7Minecraft+cheat+;Java+Developer;Furry+Gay;Opsec+Final+boss" alt="Typing SVG" /></a>
