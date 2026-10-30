@@ -44,8 +44,6 @@
 
 ---
 
-<div align="center">
-
 ## Connect
 
 <p>
