@@ -11,43 +11,40 @@
 
 <div align="center">
 
-## About Me
+##  About Me
 
-- Im Furry 17+
-- Mainly working with Java ,Kotlin ,...
-- Interested in Minecraft servers and Anticheat bypass
+ Im Furry 17+
+ Mainly working with Java ,Kotlin ,...
+ Interested in Minecraft servers and Anticheat bypass
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksandweight&weight=700&duration=3000&pause=998&color=F78A13&center=true&vCenter=true&width=435&lines=Java+Developer%E2%9C%A7Minecraft+cheat+;Java+Developer;Furry+Gay;Opsec+Final+boss" alt="Typing SVG" /></a>
 
 ---
 <div align="center">
-## I know
+ <h1>Tech stack</h1>
 
-<div align="center">
-### Languages
-
+ <h2>Languages</h2>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark" />
 </p>
 
-<div align="center">
-### Libraries
+ <h2>Libraries</2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,golang,python,cpp&theme=dark" />
 </p>
 
-<div align="center">
-### Database
+ <h2>Database</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
-
+</div>
 ---
 
 <div align="center">
+
 ## Connect
 
 <p>
