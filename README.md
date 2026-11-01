@@ -58,8 +58,3 @@
 <a href="https://www.youtube.com/@tirum-441Vn">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
-  <code>tirumclone3314</code>
-</p>
