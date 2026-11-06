@@ -26,13 +26,13 @@
 
  <h2>Libraries</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express&theme=dark" />
 </p>
 
  <h2>Languages</2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,golang,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,ts,golang,python,cpp&theme=dark" />
 </p>
 
  <h2>Database</h2>
