@@ -24,12 +24,12 @@
 <div align="center">
  <h1>Tech stack</h1>
 
- <h2>Languages</h2>
+ <h2>Libraries</h2>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark" />
 </p>
 
- <h2>Libraries</2>
+ <h2>Languages</2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,golang,python,cpp&theme=dark" />
